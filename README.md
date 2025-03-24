@@ -52,7 +52,7 @@ of much greater equality. And that is desirable.
 <br>
 <br>
 
-## auto-generates analysis file about random_bytes file
+## Auto-generates analysis file about random_bytes file
 
 ```text
 
