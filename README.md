@@ -46,7 +46,7 @@ total bytes, all the bytes raw, and all the
 text bytes for visual.
 For values over much over 200 digits,
 the formula yields bit occurrences
-of much greater equality. And that is desirable.
+of much greater equivalence. And that is desirable.
 
 <br>
 <br>
