@@ -4,7 +4,7 @@ Append ```-lgmp``` to Geany's compile & build commands. Hit F9 once. F5 to run.
 <br>
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/compromise-evident/prime-gap-RNG/refs/heads/main/Other/Terminal.png">
 </p>
 
 <br>
@@ -13,7 +13,7 @@ Append ```-lgmp``` to Geany's compile & build commands. Hit F9 once. F5 to run.
 # How it works
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/compromise-evident/prime-gap-RNG/refs/heads/main/Other/Formula.png">
 </p>
 
 When a random file is dropped/entered as input,
