@@ -33,7 +33,7 @@ compared to a fraction of the average gap.
 As a result, not only do bits 1 & 0 occur nearly equally,
 but so do all 256 bytes, as this tool demonstrates.
 
-The formula is equivalent to: ```int enhanced_average_gap = ((average_gap * 44) / 63);``` <br>
+What's in parentheses is equivalent to ```(average_gap * 44) / 63``` <br>
 Just put ```a/2 + a/7 + a/18``` in WolframAlpha.
 
 The same process (randomness of continued gaps) is used
