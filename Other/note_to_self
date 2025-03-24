@@ -1,0 +1,6 @@
+When I can get both probab_prime_p and nextprime
+to use determined witnesses (or to classify n equally
+no matter the device,) then replace rolling-code.cpp
+with this program, verbatim.
+
+AND preferably, make it fast.

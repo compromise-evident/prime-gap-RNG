@@ -1,0 +1,10 @@
+prime-gap-RNG
+
+
+
+Version 1.0.0   Actually, "digit_length" can go as low as 50,  but then enhanced
+                average gap makes  bit occurrence  shaky; you'll need to  adjust
+                "enhanced_average_gap" for your "digit_length" until you see bit
+                occurrences are ~equal. See analysis file created automatically.
+                "enhanced_average_gap" is best for  200-digit values and higher.
+                2025_03_23 (Mar 23 2025)
