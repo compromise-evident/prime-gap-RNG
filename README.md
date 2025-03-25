@@ -58,7 +58,8 @@ You see that ~12 is what occurs "normally".
 It's the 200 throwing the average off to 36.
 So if a gap of "normally 12" is greater than 36,
 then random bit is 1. That doesn't happen often.
-But you need it to happen, about as often as the opposite.
+But you need it to happen, about as often as the opposite,
+for good randomness.
 Here's an actual list of consecutive prime gaps following
 an 800-digit prime, where sudden big gaps throw
 the average off to "abnormal" highs.
