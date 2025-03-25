@@ -51,6 +51,36 @@ of much greater equivalence. And that is desirable.
 <br>
 <br>
 
+## Why compare gaps to a fraction of the average gap?
+
+The average of ```12, 10, 14, 10, 16, 14, 12, 200``` is 36.
+You see that ~12 is what occurs "normally".
+It's the 200 throwing the average off to 36.
+So if a gap of "normally 12" is greater than 36,
+then random bit is 1. And that doesn't happen often.
+Here's an actual list of consecutive prime gaps following
+an 800-digit prime, where sudden big gaps throw
+the average off to "abnormal" highs.
+
+```text
+
+12818
+4902
+1734
+2316
+1324
+210
+4202
+160
+804
+714
+126
+
+```
+
+<br>
+<br>
+
 ## Auto-generates analysis file about random_bytes file
 
 ```text
