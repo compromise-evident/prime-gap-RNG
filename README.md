@@ -85,6 +85,18 @@ to finding "normal" gaps near values of 200+ digits.)
 <br>
 <br>
 
+## Why not compare gaps to the previous gap?
+
+To get byte "11111111", you'll need 8 consecutive gaps,
+each greater than the previous. That's extremely rare.
+And so are sub-strings of those bits.
+See file "do_not_do_this" in Other.
+It's a laughable analysis file of
+50,000 bytes generated using this faulty method.
+
+<br>
+<br>
+
 ## Auto-generates analysis file about random_bytes file
 
 ```text
