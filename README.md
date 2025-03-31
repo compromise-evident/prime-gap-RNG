@@ -118,6 +118,8 @@ https://github.com/compromise-evident/WhatNot/blob/main/see_prime_gaps_following
 
 https://github.com/compromise-evident/WhatNot/blob/main/see_prime_gaps_following_n_using_probab_prime_p.cpp
 
+https://github.com/compromise-evident/WhatNot/blob/main/see_natural_log_of_n.cpp
+
 <br>
 <br>
 
