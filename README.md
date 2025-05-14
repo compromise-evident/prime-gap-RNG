@@ -44,9 +44,12 @@ about the "random_bytes" file.
 It contains bit & byte occurrence, distinct bytes,
 total bytes, all the bytes raw, and all the
 text bytes for visual.
-For values over much over 200 digits,
+For values over 200 digits,
 the formula yields bit occurrences
-of much greater equivalence. And that is desirable.
+of greater equivalence. And that is desirable.
+You can adjust the formula, so that a gap is compared to
+"your custom fraction of the average gap";<br>
+```int enhanced_average_gap = ((average_gap * 44) / 63);```
 
 <br>
 <br>
