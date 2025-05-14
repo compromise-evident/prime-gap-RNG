@@ -33,8 +33,6 @@ compared to a fraction of the average gap.
 As a result, not only do bits 1 & 0 occur nearly equally,
 but so do all 256 bytes, as this tool demonstrates.
 
-Enhancement is equivalent to ```(average gap * 44) / 63```. (Paste ```a/2 + a/7 + a/18``` in WolframAlpha.)
-
 The same process (randomness of continued gaps) is used
 to update the "private_seeds" file with a new n-digit value.
 You may alter this value within that file, at any time
@@ -47,9 +45,13 @@ text bytes for visual.
 For values over 200 digits,
 the formula yields bit occurrences
 of greater equivalence. And that is desirable.
-You can adjust the formula, so that a gap is compared to
-"your custom fraction of the average gap";<br>
-```int enhanced_average_gap = ((average_gap * 44) / 63);```
+
+You can adjust the formula ```int enhanced_average_gap = ((average_gap * 44) / 63);```.
+so that a gap is compared to
+"your custom enhanced fraction of the average gap".
+This default enhancement is equivalent to (average gap * 44) / 63.
+That was calculated by pasting "a/2 + a/7 + a/18" into WolframAlpha.
+You can adjust those fractions, then plug in what WolframAlpha deems equivalent.
 
 <br>
 <br>
