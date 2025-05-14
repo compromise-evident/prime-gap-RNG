@@ -45,13 +45,8 @@ text bytes for visual.
 For values over 200 digits,
 the formula yields bit occurrences
 of greater equivalence. And that is desirable.
-
 You can adjust the formula ```int enhanced_average_gap = ((average_gap * 44) / 63);```.
-so that a gap is compared to
-"your custom enhanced fraction of the average gap".
-This default enhancement is equivalent to (average gap * 44) / 63.
-That was calculated by pasting "a/2 + a/7 + a/18" into WolframAlpha.
-You can adjust those fractions, then plug in what WolframAlpha deems equivalent.
+That line is equivalent to "a/2 + a/7 + a/18", but you can edit just the 44 and 63.
 
 <br>
 <br>
