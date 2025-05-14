@@ -45,8 +45,10 @@ text bytes for visual.
 For values over 200 digits,
 the formula yields bit occurrences
 of greater equivalence. And that is desirable.
-You can adjust the formula ```int enhanced_average_gap = ((average_gap * 44) / 63);```.
-That line is equivalent to "a/2 + a/7 + a/18", but you can edit just the 44 and 63.
+You can adjust the formula in the following line,
+which is equivalent to "a/2 + a/7 + a/18",
+but you can edit just the 44 and 63 instead.<br>
+```int enhanced_average_gap = ((average_gap * 44) / 63);```
 
 <br>
 <br>
